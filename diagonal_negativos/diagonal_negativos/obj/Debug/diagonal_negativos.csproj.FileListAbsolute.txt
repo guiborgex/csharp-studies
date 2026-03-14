@@ -1,0 +1,6 @@
+C:\Users\guick\Documents\Projetos em C#\diagonal_negativos\diagonal_negativos\bin\Debug\diagonal_negativos.exe.config
+C:\Users\guick\Documents\Projetos em C#\diagonal_negativos\diagonal_negativos\bin\Debug\diagonal_negativos.exe
+C:\Users\guick\Documents\Projetos em C#\diagonal_negativos\diagonal_negativos\bin\Debug\diagonal_negativos.pdb
+C:\Users\guick\Documents\Projetos em C#\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.csproj.CoreCompileInputs.cache
+C:\Users\guick\Documents\Projetos em C#\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.exe
+C:\Users\guick\Documents\Projetos em C#\diagonal_negativos\diagonal_negativos\obj\Debug\diagonal_negativos.pdb

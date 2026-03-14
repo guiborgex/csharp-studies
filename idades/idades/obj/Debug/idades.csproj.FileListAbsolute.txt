@@ -1,0 +1,6 @@
+C:\Users\guick\Documents\Projetos em C#\idades\idades\bin\Debug\idades.exe.config
+C:\Users\guick\Documents\Projetos em C#\idades\idades\bin\Debug\idades.exe
+C:\Users\guick\Documents\Projetos em C#\idades\idades\bin\Debug\idades.pdb
+C:\Users\guick\Documents\Projetos em C#\idades\idades\obj\Debug\idades.csproj.CoreCompileInputs.cache
+C:\Users\guick\Documents\Projetos em C#\idades\idades\obj\Debug\idades.exe
+C:\Users\guick\Documents\Projetos em C#\idades\idades\obj\Debug\idades.pdb

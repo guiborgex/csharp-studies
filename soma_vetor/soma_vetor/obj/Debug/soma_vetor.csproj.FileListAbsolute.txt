@@ -1,0 +1,6 @@
+C:\Users\guick\Documents\Projetos em C#\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe.config
+C:\Users\guick\Documents\Projetos em C#\soma_vetor\soma_vetor\bin\Debug\soma_vetor.exe
+C:\Users\guick\Documents\Projetos em C#\soma_vetor\soma_vetor\bin\Debug\soma_vetor.pdb
+C:\Users\guick\Documents\Projetos em C#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\guick\Documents\Projetos em C#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.exe
+C:\Users\guick\Documents\Projetos em C#\soma_vetor\soma_vetor\obj\Debug\soma_vetor.pdb
